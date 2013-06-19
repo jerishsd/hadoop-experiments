@@ -1,0 +1,6 @@
+git config --global user.name ""
+git config --global user.email youremail@domain.com 
+git remote set-url origin https://yourusername@github.com/user/repo.git
+git add .
+git commit -m "Comment"
+git push origin master
